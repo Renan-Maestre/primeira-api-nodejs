@@ -12,3 +12,17 @@ GET    http://localhost:3333/courses
 ###
 
 GET http://localhost:3333/courses/3
+
+
+###
+
+DELETE http://localhost:3333/courses/1
+
+###
+
+PATCH http://localhost:3333/courses/1
+Content-Type:  application/json
+
+{
+    "title" : "Teste titulo"
+}
