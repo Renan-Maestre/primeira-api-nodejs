@@ -22,6 +22,34 @@
       "when": 1764817731868,
       "tag": "0002_worthless_sphinx",
       "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "7",
+      "when": 1764985737670,
+      "tag": "0003_loose_punisher",
+      "breakpoints": true
+    },
+    {
+      "idx": 4,
+      "version": "7",
+      "when": 1764986914700,
+      "tag": "0004_yummy_midnight",
+      "breakpoints": true
+    },
+    {
+      "idx": 5,
+      "version": "7",
+      "when": 1764987058305,
+      "tag": "0005_milky_morgan_stark",
+      "breakpoints": true
+    },
+    {
+      "idx": 6,
+      "version": "7",
+      "when": 1764988615250,
+      "tag": "0006_flat_flatman",
+      "breakpoints": true
     }
   ]
 }
